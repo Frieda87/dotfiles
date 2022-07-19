@@ -6,5 +6,5 @@ jobs:
     steps:
       - run: echo "🍏 Doing some spell check"
       - run: pip install proselint
-      - run: proselint ~/README.md 
+      - run: proselint ../../README.md 
 
