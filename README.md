@@ -1,5 +1,5 @@
 # DOTFILES
-(making $HOME more comfy)
+(making $HOME very comfy)
 
 ```bash
 sudo apt install git tmux zsh vim stow
